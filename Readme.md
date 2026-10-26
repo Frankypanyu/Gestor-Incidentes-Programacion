@@ -1,5 +1,5 @@
 # Taller Evaluación: Estructuras de Datos - Cola de Incidentes de Seguridad
-
+Integrantes: Andres Valarezo , Jordy Paz
 ## Contexto del problema
 
 Una empresa ha detectado varios intentos de acceso sospechosos en sus sistemas internos.  
